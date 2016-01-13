@@ -1,0 +1,4 @@
+ks_number: 8888
+ks_host: eclidb8888.kenshooprd.local
+my_cnf_open_files_limit: 65535
+timezone_location: Africa/Bangui
